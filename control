@@ -3,7 +3,7 @@ Name: RealCC
 Depends: mobilesubstrate
 Version: 0.0.5
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: System Administrator
-Author: System Administrator
+Description: RealCC, [jakeajames original version] -> [shino-996 add support for Chinese phone] -> [lone-wolf-akela add a setting panel]
+Maintainer: 
+Author: jakeajames
 Section: Tweaks
