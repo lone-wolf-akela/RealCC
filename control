@@ -1,9 +1,9 @@
-Package: com.yourcompany.realcc
+Package: com.lonewolf.jakeashacks.realcc
 Name: RealCC
 Depends: mobilesubstrate
 Version: 0.0.5
 Architecture: iphoneos-arm
-Description: RealCC, [jakeajames original version] -> [shino-996 add support for Chinese phone] -> [lone-wolf-akela add a setting panel]
-Maintainer: 
-Author: jakeajames
+Description: Actually disable WiFI and Bluetooth from CC in iOS 11. Modified by shino-996 & lone-wolf-akela.
+Maintainer: Lone Wolf Akela
+Author: Jake James
 Section: Tweaks
